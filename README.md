@@ -15,7 +15,7 @@ As a React Native developer, your task is to create a mobile application that al
    - When a user taps on a movie title, show detailed information about the selected movie, including its title, release year, plot summary, and poster.
 
 2. **API Integration:**
-   - Integrate the application with a movie API of your choice (e.g., The Movie Database - TMDb API).
+   - Integrate the application with a movie API of your choice (e.g., The Movie Database - [TMDb API](https://developer.themoviedb.org/reference/intro/getting-started)).
    - Use the API's search endpoint to retrieve a list of movies based on the user's search query.
    - Fetch detailed information about a selected movie using its unique identifier.
 
